@@ -1,0 +1,2 @@
+name: "Naturwissenschaften"
+numberSubjects: 1

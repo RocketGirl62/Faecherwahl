@@ -1,0 +1,2 @@
+name: "Deutsch"
+numberSubjects: 1
