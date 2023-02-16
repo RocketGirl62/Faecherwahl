@@ -1,0 +1,15 @@
+name: "Deutsch"
+taskfield: 0
+kindOfSubject: 0
+kernfach: true
+eA: true
+gA: true
+pfach: [true,true,true,true,true]
+eABand: 0
+belegungsverpflichtungen: true
+stundeneA: 5
+stundengAP: 3
+stundengA: 1.5
+engA: 3
+eANichtWaehlbar: -1
+gANichtWaehlbar: -1

@@ -1,0 +1,15 @@
+name: "Mathematik"
+taskfield: 2
+kindOfSubject: 7
+kernfach: true
+eA: true
+gA: true
+pfach: [true,true,true,true,true]
+eABand: 0
+gABand: 0
+belegungsverpflichtungen: true
+stundeneA: 5
+stundengAP: 3
+stundengA: 3
+eANichtWaehlbar: -1
+gANichtWaehlbar: -1

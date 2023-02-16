@@ -1,0 +1,15 @@
+name: "Politik-Wirtschaft"
+taskfield: 1
+kindOfSubject: 3
+kernfach: false
+eA: true
+gA: true
+pfach: [false,false,true,true,true]
+eABand: 0
+gABand: 0
+belegungsverpflichtungen: true
+stundeneA: 5
+stundengAP: 3
+stundengA: 1.5
+eANichtWaehlbar: -1
+gANichtWaehlbar: -1

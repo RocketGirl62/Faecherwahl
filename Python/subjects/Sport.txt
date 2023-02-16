@@ -1,0 +1,15 @@
+name: "Sport"
+taskfield: 4
+kindOfSubject: 10
+kernfach: false
+eA: false
+gA: true
+pfach: [false,false,false,false,true]
+eABand: 0
+gABand: 0
+belegungsverpflichtungen: false
+stundeneA: 5
+stundengAP: 3
+stundengA: 0
+eANichtWaehlbar: -1
+gANichtWaehlbar: -1
