@@ -1,0 +1,4 @@
+profiles: ["SprachlicherSchwerpunkt","Musisch-künstlerischerSchwerpunkt","GesellschaftswissenschaftlicherSchwerpunkt","Mathematisch-naturwissenschaftlicherSchwerpunkt"]
+kindOfSubject: ["Deutsch","Fremdsprachen","künstlerisch","Politik-Wirtschaft","Geschichte","Erdkunde","Religion_WerteundNormen","Mathematik","Naturwissenschaften","Informatik","Sport"]
+taskfields: ["sprachlich-literarisch-künstlerisch","gesellschaftswissenschaftlich","mathematisch-naturwissenschaftlich-technisch"]
+subjects: ["Deutsch","Englisch","Französisch","Latein","Spanisch","Kunst","Musik","Darstellendes-Spiel","Politik-Wirtschaft","Geschichte","Erdkunde","Religion","Werte-und-Normen","Mathematik","Physik","Chemie","Biologie","Informatik","Sport"]
