@@ -1,0 +1,3 @@
+name: "gesellschaftswissenschaftlich"
+shortName: "B"
+numberSubjects: 1

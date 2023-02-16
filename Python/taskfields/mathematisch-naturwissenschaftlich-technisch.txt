@@ -1,0 +1,3 @@
+name: "mathematisch-naturwissenschaftlich-technisch"
+shortName: "C"
+numberSubjects: 1
